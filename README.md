@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Kumar Nishant 👋</h1>
-<h3 align="center">Full-Stack Developer | Java Spring Boot & React.js</h3>
+<h1 align="center">Hi there, I'm Mohit Kumar 👋</h1>
+<h3 align="center">Backend Developer | NodeJS & Gradle SpringBoot</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2b83e7&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Innovating+Tech+Solutions+With+Passion" alt="Typing SVG" />
@@ -17,7 +17,7 @@
     <td>
       <ul>
          <li>🎓 <strong>CS Engineering Student</strong> at JIS College of Engineering (2022-2026)</li>
-        <li>💻 <strong>Full-Stack Developer</strong> focusing on <strong>Java Spring Boot</strong> & <strong>React.js</strong></li>
+        <li>💻 <strong>Backend Developer</strong> focusing on <strong>Java Spring Boot</strong> & <strong>NodeJS</strong></li>
         <li>🔒 Dedicated to building <strong>secure web applications</strong> with <strong>JWT</strong> & <strong>Spring Security</strong></li>
         <li>🌱 Passionate about creating <strong>high-performance, user-friendly solutions</strong></li>
       </ul>
@@ -98,11 +98,9 @@
 
 ### 💼 Featured Projects
 
-[The Cultural Circuit](https://github.com/K-Nishant-18/cultural-circuit) - The Cultural Circuit is a vibrant web-based platform dedicated to preserving, promoting, and celebrating India's cultural heritage worldwide.
+[Connectify](https://github.com/K-Nishant-18/cultural-circuit) - Connectify is a feature-rich social media platform built with the MERN stack (MongoDB, Express, React, Node.js) that brings people together through seamless communication, interactive feeds, and real-time engagement.
 
-[Alumni Connect- Collegia](https://github.com/K-Nishant-18/collegia) - Collegia is an all-in-one platform designed to enhance the overall student experience in colleges by integrating several essential features.
 
----
 
 
 ### 🌍 Let's Connect
