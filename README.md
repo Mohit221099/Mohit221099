@@ -31,12 +31,12 @@ class MohitKumar_CyberSecurityExpert:
         self.title = "Senior Backend Developer & Cybersecurity Expert"
         self.company = "🏢 CISCO Systems"
         self.location = "🌏 Kolkata, India"
-        self.experience = "2+ Years in Enterprise Security"
+        self.experience = "5+ Years in Enterprise Security"
         self.mindset = "Code with Security in Mind 🛡️"
         
     def technical_expertise(self):
         return {
-            "backend_languages": ["ExpressJS 🐍", "Java ☕", "Go 🚀", "Node.js 🟢", "C++ ⚡"],
+            "backend_languages": ["Python 🐍", "Java ☕", "Go 🚀", "Node.js 🟢", "C++ ⚡"],
             "security_tools": ["Burp Suite 🕷️", "Wireshark 🦈", "Metasploit 💥", "Nmap 🗺️"],
             "cloud_platforms": ["AWS ☁️", "Azure 🌐", "GCP 🌍"],
             "specializations": ["API Security", "Network Defense", "Threat Hunting", "Secure Architecture"]
@@ -122,16 +122,20 @@ print(mohit.security_philosophy())
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohit221099&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit221099&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mohit221099&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&custom_title=⚡%20Mohit's%20GitHub%20Stats%20⚡"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit221099&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&custom_title=🔥%20Most%20Used%20Languages%20🔥"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit221099&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit221099&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=ffffff&dates=ffffff" alt="🔥 GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit221099&theme=high-contrast&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ff6b35" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mohit221099&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Contributor Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohit221099&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
 ## 🏆 GitHub Achievement Showcase
